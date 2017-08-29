@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912573079824",
+    "firebase_url": "https://firbaselogin-b4de0.firebaseio.com",
+    "project_id": "firbaselogin-b4de0",
+    "storage_bucket": "firbaselogin-b4de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912573079824:android:605e04be55c642d1",
+        "android_client_info": {
+          "package_name": "com.er0r.tejas.firbaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912573079824-3qcnou48i90g7h2uca0j1o4tuk0sbkup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.er0r.tejas.firbaselogin",
+            "certificate_hash": "624da46756fe3f693850107a87250d0515b091ae"
+          }
+        },
+        {
+          "client_id": "912573079824-n448paksdp2us8kc1u2ivg6hpi90qo6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7D9pItxde1_s7q2v3f6lEWUv6v2EBLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912573079824-n448paksdp2us8kc1u2ivg6hpi90qo6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
